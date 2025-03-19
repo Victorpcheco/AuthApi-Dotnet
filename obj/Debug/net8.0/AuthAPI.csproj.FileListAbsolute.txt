@@ -98,6 +98,7 @@
 /home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/AuthAPI.csproj.CoreCompileInputs.cache
 /home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/AuthAPI.MvcApplicationPartsAssemblyInfo.cs
 /home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/AuthAPI.sourcelink.json
 /home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/staticwebassets.build.json
 /home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/staticwebassets.development.json
 /home/victorpacheco/Dev/Dotnet projects/AuthAPI/obj/Debug/net8.0/staticwebassets/msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
