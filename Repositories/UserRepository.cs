@@ -13,4 +13,8 @@ public class UserRepository : IUserRepository {
         _dataContext.users.Add(user);
         await _dataContext.SaveChangesAsync();
     }
+
+    public List<UserModel> GetAll() {
+        return _dataContext.users.ToList();
+    }
 }
