@@ -1,7 +1,7 @@
 # Sistema de Cadastro e Login
 
 ## Sobre o Projeto
-O Sistema de Cadastro e Login é uma API desenvolvida em Java com Spring Boot, focada exclusivamente na autenticação de usuários. Utiliza autenticação baseada em tokens JWT para garantir segurança e controle de acesso. O banco de dados utilizado é o MySQL.
+O Sistema de Cadastro e Login é uma API desenvolvida em C# utilizando .NET, focada exclusivamente na autenticação de usuários. Utiliza autenticação baseada em tokens JWT para garantir segurança e controle de acesso. O banco de dados utilizado é o MySQL.
 
 ## Funcionalidades Principais
 
@@ -19,4 +19,3 @@ O Sistema de Cadastro e Login é uma API desenvolvida em Java com Spring Boot, f
 - C# .NET Core 8.0
 - Banco de Dados MySQL
 - JWT (JSON Web Token)
-- JPA/Hibernate
