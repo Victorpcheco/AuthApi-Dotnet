@@ -20,7 +20,7 @@ public class AuthController : ControllerBase {
     public async Task<IActionResult> Login(LoginRequest request) => Ok(await _userService.LoginAsync(request));
 
 
-    // 🔐 Endpoint protegido: só pode ser acessado com um token 
+    // Endpoint Get para teste da autenticação
     [Authorize]
     [HttpGet]
     public IActionResult GetUsers()
